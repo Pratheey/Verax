@@ -1,1 +1,1 @@
-# Verax
+# Galena
